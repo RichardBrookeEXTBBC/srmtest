@@ -1,4 +1,5 @@
 srmtest
 =======
 Test documentation
-testing a push
+testing a push\n
+this time with form encoding
